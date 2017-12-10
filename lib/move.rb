@@ -18,4 +18,8 @@ def move(array,index,value)
   array[index] = value
 end
 
+def value
+  value = "X"
+end
+
 # code your input_to_index and move method h
