@@ -18,7 +18,5 @@ def move(array,index,"X")
   array[index] = value
 end
 
-def value("X")
-end
 
 # code your input_to_index and move method h
