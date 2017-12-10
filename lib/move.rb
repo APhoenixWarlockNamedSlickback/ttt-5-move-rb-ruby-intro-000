@@ -16,7 +16,6 @@ end
 
 def move(array,index,value)
   array[index] = value
-  value = "X"
 end
 
 # code your input_to_index and move method h
